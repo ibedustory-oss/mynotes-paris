@@ -69,6 +69,7 @@ img{max-width:100%}
 .sheet td{padding:14px 16px 14px 0;border-bottom:1px solid #DEDEDC;vertical-align:top}
 .sheet .nm a{font-family:'Do Hyeon','Barlow Condensed','Gothic A1',sans-serif;font-size:24px;line-height:1.15;display:block}
 .sheet .nm small{display:block;font-size:13px;color:#4D4D4D;margin-top:2px}
+.sheet .nm .say{color:#171717;margin-top:6px}
 .sheet .nm .links{display:block;margin-top:4px;font-size:13px}
 .sheet .nm .links a{display:inline;font-family:'Gothic A1',sans-serif;font-size:13px;line-height:1.4;text-decoration:underline;text-underline-offset:2px}
 .go{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 0}
